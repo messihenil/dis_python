@@ -1,0 +1,1 @@
+An array is collection of element having same data-type but An array is static in nature. ArrayList is part of collection framework and is present in java.util package. ArrayList provides dynamic arrays in Java.
